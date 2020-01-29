@@ -1,3 +1,5 @@
 Demo error file created.
 
 Error file changed Again.
+
+To check stash feature.
